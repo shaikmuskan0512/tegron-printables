@@ -70,6 +70,8 @@ frontend/.env.example
 
 Never commit real credentials or API keys.
 
+git clone " https://github.com/shaikmuskan0512/tegron-printables.git "
+
 ## 👩‍💻 Author
 
 Shaik Muskan
